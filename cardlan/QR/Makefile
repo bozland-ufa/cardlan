@@ -13,7 +13,7 @@ ARFLAGS		=
 OCFLAGS		= 
 ODFLAGS		=
 
-INCDIRS		= -I ./include ../includemy/curl
+INCDIRS		= -I ./include ../include/curl
 LIBDIRS		= -L ../lib/  
 LIBS 		= -lpthread -l618pos -lz -lcurl
 #
