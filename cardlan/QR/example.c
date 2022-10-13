@@ -3,7 +3,7 @@
 int main(int argc,char *argv[])
 {
 
-    test_all_curl();
+    curl();
     //test_cardlan();
     //test_qr();
 
